@@ -30,6 +30,8 @@
                 android:background="@color/colorGreyBackground"
                 android:textColor="@color/colorWhite"
                 android:textSize="56sp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="Peaceful Lake"/>
             <TextView
                 android:id="@+id/peace_text"
@@ -41,6 +43,8 @@
                 android:background="@color/colorGreyBackground"
                 android:textColor="@color/colorWhite"
                 android:textSize="24sp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="Be in peace, my friend!"/>
         </RelativeLayout>
 
@@ -59,6 +63,8 @@
                 android:background="@color/colorGreyBackground"
                 android:textColor="@color/colorWhite"
                 android:textSize="56sp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="Sakura flowers"/>
             <TextView
                 android:id="@+id/sakura_text"
@@ -70,6 +76,8 @@
                 android:background="@color/colorGreyBackground"
                 android:textColor="@color/colorWhite"
                 android:textSize="24sp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="Be beautiful like a flower!"/>
         </RelativeLayout>
 
@@ -88,6 +96,8 @@
                 android:background="@color/colorGreyBackground"
                 android:textColor="@color/colorWhite"
                 android:textSize="56sp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="Ocean sunrise"/>
             <TextView
                 android:id="@+id/sunrise_text"
@@ -99,6 +109,8 @@
                 android:background="@color/colorGreyBackground"
                 android:textColor="@color/colorWhite"
                 android:textSize="24sp"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
                 android:text="Be fresh like this sunrize!"/>
         </RelativeLayout>
     </ViewFlipper>
